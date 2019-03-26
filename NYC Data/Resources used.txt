@@ -1,0 +1,8 @@
+Thanks for providing me an opportunity to make his project, this is my first project on big data(more specifically
+data analysis) and in future I hope to make more such project.
+I am listing down resources i had used in making this project:
+
+1. Our mentor
+2. Pandas official documentation pdf (https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
+3. Matplotlib official documentation (https://matplotlib.org/Matplotlib.pdf)
+4. Previous knowledge on mapper and reducer.
